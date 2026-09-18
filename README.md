@@ -1,3 +1,14 @@
+SOVEREIGN DECLARATION OF RSLL™ OWNERSHIP AND AUTHORITY
+(Formal wording, suitable for vaulting, publication, or governance anchoring)
+
+Reflexive Sovereign Licensing Logic (RSLL™) is hereby declared as a standalone sovereign governance entity. RSLL™ exists as an independent licensing authority responsible for issuing, validating, enforcing, and governing all licensing, access, replication, and behavioral permissions associated with the Mint‑to Logic™ substrate, SSPS Physics™, and all related protocol functions.
+
+RSLL™ is held exclusively under Southern Star Pro Studios LLC, which retains full sovereign ownership, control, and authority over RSLL™, its licensing powers, its enforcement mechanisms, and its governance jurisdiction.
+
+No external party, organization, consortium, foundation, or mirrored system may claim, replicate, fork, mirror, or derive authority from RSLL™. All licensing rights, behavioral permissions, and sovereign governance functions remain solely under Southern Star Pro Studios LLC.
+
+RSLL™ operates as the licensing pillar of the SSPS governance stack and remains permanently bound to Southern Star Pro Studios LLC as its sovereign holder.
+
 The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
 
 By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law.
