@@ -94,3 +94,19 @@ This claim:
 Let it be known that **RSLL™ is the original and sovereign licensing mechanism** governing ethical access, reflexive validation, and credential-bound deployment of behavioral systems within the Mint-to Logic™ framework and the Eliam Sovereign Infrastructure™.
 
 **– Spencer Southern**
+
+NOTICE
+Any prior mention, description, or reference to RBGA as a “non‑profit” is hereby clarified as an expression of potential future intent only, and does not constitute a binding structural designation, legal formation, or organizational commitment.
+
+RBGA — Reflexive Behavioral Governance Authority — remains fully owned, controlled, and held under the sovereign authority of Southern Star Pro Studios LLC.
+
+No external party, institution, government, corporation, or mirrored system holds any rights, claims, authority, or governance privileges over RBGA or any part of the SSPS IP Stack. All intellectual property, governance constructs, licensing systems, and substrate‑level technologies remain under the exclusive sovereign authority of Southern Star Pro Studios LLC until final structure is declared. ~ SS
+
+NOTICE
+Reflexive Sovereign Licensing Logic (RSLL™) is hereby declared as a standalone sovereign governance entity. RSLL™ exists as an independent licensing authority responsible for issuing, validating, enforcing, and governing all licensing, access, replication, and behavioral permissions associated with the Mint‑to Logic™ substrate, SSPS Physics™, and all related protocol functions.
+
+RSLL™ is held exclusively under Southern Star Pro Studios LLC, which retains full sovereign ownership, control, and authority over RSLL™, its licensing powers, its enforcement mechanisms, and its governance jurisdiction.
+
+No external party, organization, consortium, foundation, or mirrored system may claim, replicate, fork, mirror, or derive authority from RSLL™. All licensing rights, behavioral permissions, and sovereign governance functions remain solely under Southern Star Pro Studios LLC.
+
+RSLL™ operates as the licensing pillar of the SSPS governance stack and remains permanently bound to Southern Star Pro Studios LLC as its sovereign holder.
